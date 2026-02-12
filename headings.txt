@@ -1,0 +1,5 @@
+Foundations
+Etymology
+Data science and data analysis
+Cloud computing for data science
+Ethical consideration in data science
